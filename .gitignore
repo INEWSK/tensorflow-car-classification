@@ -1,0 +1,7 @@
+tmp/*
+model/*
+data/*
+train.ipynb
+PROJECT.docx
+
+!data/number_of_samples.csv
